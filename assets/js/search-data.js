@@ -451,12 +451,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/1_project/";
-            },},{id: "projects-project-2",
+          section: "News",},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
@@ -486,16 +481,21 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/al-folio/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-3x3-basketball-tracking-phd",
+          title: '3x3 Basketball Tracking (PhD)',
+          description: "Automated player &amp; ball tracking and analytics from single-camera video.",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+              window.location.href = "/al-folio/projects/PhD/";
+            },},{id: "projects-padel-tracking-aiball-arcvi",
+          title: 'Padel Tracking (AiBall / Arcvi)',
+          description: "CV pipelines for scalable player and ball tracking with AWS GPU infrastructure.",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/9_project/";
+              window.location.href = "/al-folio/projects/aiball/";
+            },},{id: "projects-buestats-2-0",
+          title: 'BUEStats 2.0',
+          description: "A web app to make Spanish basketball stats accessible (scraping + exploration + scouting).",
+          section: "Projects",handler: () => {
+              window.location.href = "/al-folio/projects/buestats/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
