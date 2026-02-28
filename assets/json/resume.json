@@ -137,10 +137,7 @@
       "name": "BUEStats 2.0",
       "url": "http://www.buestats2.com",
       "description": "Web app to scrape and explore Spanish basketball stats (women’s and men’s leagues).",
-      "highlights": [
-        "Download data, visualize shots, team exploration, head-to-head, rankings",
-        "Scouting tools and player similarity"
-      ]
+      "highlights": ["Download data, visualize shots, team exploration, head-to-head, rankings", "Scouting tools and player similarity"]
     },
     {
       "name": "NBA Analysis Web App",

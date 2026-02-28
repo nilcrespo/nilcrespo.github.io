@@ -28,7 +28,7 @@ latest_posts:
   <div class="hero-glow hero-glow-one"></div>
   <div class="hero-glow hero-glow-two"></div>
   <p class="hero-kicker">Sports AI • Tracking • Applied Research</p>
-  <h1 class="hero-title">From raw video to tactical decisions.</h1>
+  <h1 class="hero-title">From raw match video to elite tactical intelligence.</h1>
   <p class="hero-lead">
     I am <strong>Nil Crespo Peiro</strong>, a data scientist and computer vision researcher focused on
     making elite-level sports analytics usable in real environments. My current work combines
@@ -39,6 +39,25 @@ latest_posts:
     <span>Padel Computer Vision</span>
     <span>Sports Data Products</span>
     <span>AWS GPU Pipelines</span>
+  </div>
+  <div class="hero-actions">
+    <a class="hero-btn hero-btn-primary" href="/projects/">Explore Projects</a>
+    <a class="hero-btn hero-btn-secondary" href="/cv/">Download CV</a>
+  </div>
+</div>
+
+<div class="kpi-band">
+  <div>
+    <p class="kpi-label">Current Track</p>
+    <p class="kpi-value">PhD in Sports AI</p>
+  </div>
+  <div>
+    <p class="kpi-label">Industry Role</p>
+    <p class="kpi-value">Visual Computing @ AiBall</p>
+  </div>
+  <div>
+    <p class="kpi-label">Core Domains</p>
+    <p class="kpi-value">Basketball and Padel</p>
   </div>
 </div>
 
@@ -68,6 +87,26 @@ latest_posts:
   </article>
 </div>
 
+## Professional Arc
+
+<div class="timeline-strip">
+  <article>
+    <p class="timeline-year">2024 - Present</p>
+    <h3>Deutsche Sporthochschule Koln</h3>
+    <p>PhD researcher building tracking and open data infrastructure for 3x3 basketball.</p>
+  </article>
+  <article>
+    <p class="timeline-year">2022 - Present</p>
+    <h3>AiBall (Arcvi)</h3>
+    <p>Production computer vision systems for padel tracking on AWS GPU pipelines.</p>
+  </article>
+  <article>
+    <p class="timeline-year">2021 - 2023</p>
+    <h3>HP / Ball&Stats / Barcelona Dragons</h3>
+    <p>Data science, analytics systems, scraping, and tactical reporting in high-performance contexts.</p>
+  </article>
+</div>
+
 ## Focus Areas
 
 - **Sports Computer Vision:** player and ball detection, trajectory extraction, single-camera setups.
@@ -81,4 +120,9 @@ latest_posts:
 2. Expanding open-source sports datasets for reproducible research.
 3. Delivering end-to-end AI products from ingestion to analyst-facing visualization.
 
-For project details, visit [Projects](/projects/) and [CV](/cv/).
+<div class="cta-panel">
+  <p>
+    For complete experience details, project breakdowns, and technical background, review the
+    <a href="/cv/">CV</a> and <a href="/projects/">project portfolio</a>.
+  </p>
+</div>
