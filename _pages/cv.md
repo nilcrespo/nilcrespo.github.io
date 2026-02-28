@@ -3,9 +3,9 @@ layout: cv
 permalink: /cv/
 title: cv
 nav: true
-nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+nav_order: 3
+cv_pdf: /assets/pdf/Nil_Crespo_CV_Dec2025.pdf
+description: Full resume covering professional experience, education, projects, and technical skills in sports AI.
 toc:
   sidebar: left
 ---

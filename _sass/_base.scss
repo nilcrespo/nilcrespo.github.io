@@ -1526,3 +1526,145 @@ figure.cover {
 mjx-container[jax="CHTML"][display="true"] {
   overflow-x: auto;
 }
+
+/*******************************************************************************
+ * Nil Crespo portfolio custom styling
+ ******************************************************************************/
+
+body {
+  font-family: "Space Grotesk", "Avenir Next", "Segoe UI", sans-serif;
+  background:
+    radial-gradient(circle at 12% 8%, rgba(10, 125, 121, 0.14), transparent 40%),
+    radial-gradient(circle at 85% 2%, rgba(245, 158, 11, 0.12), transparent 36%),
+    var(--global-bg-color);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Literata", Georgia, serif;
+  letter-spacing: -0.02em;
+}
+
+code,
+pre,
+.profile .more-info {
+  font-family: "JetBrains Mono", "SFMono-Regular", Menlo, monospace;
+}
+
+.hero-shell {
+  position: relative;
+  overflow: hidden;
+  margin: 0 0 2rem;
+  padding: 1.5rem;
+  border-radius: 18px;
+  border: 1px solid color-mix(in srgb, var(--global-theme-color) 28%, transparent);
+  background: linear-gradient(120deg, rgba(10, 125, 121, 0.1), rgba(245, 158, 11, 0.08));
+}
+
+.hero-kicker {
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 0.78rem;
+  color: color-mix(in srgb, var(--global-theme-color) 72%, var(--global-text-color));
+}
+
+.hero-title {
+  margin: 0.4rem 0 0.7rem;
+  font-size: clamp(1.85rem, 4.2vw, 2.9rem);
+  line-height: 1.08;
+}
+
+.hero-lead {
+  max-width: 72ch;
+  margin-bottom: 1rem;
+  font-size: 1.06rem;
+}
+
+.hero-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+}
+
+.hero-tags span {
+  padding: 0.34rem 0.68rem;
+  border-radius: 999px;
+  border: 1px solid color-mix(in srgb, var(--global-theme-color) 28%, transparent);
+  background-color: color-mix(in srgb, var(--global-bg-color) 80%, var(--global-theme-color));
+  font-size: 0.82rem;
+}
+
+.hero-glow {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(8px);
+  opacity: 0.65;
+  pointer-events: none;
+  animation: drift 7s ease-in-out infinite;
+}
+
+.hero-glow-one {
+  width: 150px;
+  height: 150px;
+  background: rgba(10, 125, 121, 0.2);
+  right: -35px;
+  top: -40px;
+}
+
+.hero-glow-two {
+  width: 180px;
+  height: 180px;
+  background: rgba(245, 158, 11, 0.16);
+  right: 14%;
+  bottom: -105px;
+  animation-delay: -2.4s;
+}
+
+.impact-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.9rem;
+  margin: 0.85rem 0 2rem;
+}
+
+.impact-grid article {
+  padding: 1rem;
+  border-radius: 14px;
+  border: 1px solid var(--global-divider-color);
+  background: color-mix(in srgb, var(--global-card-bg-color) 88%, var(--global-theme-color));
+}
+
+.impact-grid h3 {
+  margin: 0 0 0.45rem;
+  font-size: 1.05rem;
+}
+
+.impact-grid p {
+  margin: 0;
+  font-size: 0.96rem;
+}
+
+@keyframes drift {
+  0%,
+  100% {
+    transform: translateY(0) scale(1);
+  }
+  50% {
+    transform: translateY(-9px) scale(1.04);
+  }
+}
+
+@media (max-width: 992px) {
+  .impact-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-shell {
+    padding: 1.2rem;
+  }
+}

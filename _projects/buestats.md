@@ -1,12 +1,22 @@
 ---
 layout: page
 title: BUEStats 2.0
-description: A web app to make Spanish basketball stats accessible (scraping + exploration + scouting).
+description: A web application that makes Spanish basketball statistics easier to explore and use.
+img: assets/img/9.jpg
 importance: 1
 category: personal
 external_url: http://www.buestats2.com
 ---
 
-A scraping app that extracts data from teams in top Spanish leagues (women’s and men’s basketball) and lets users download and visualize stats.
+**BUEStats 2.0** is a data product built to make team and league insights accessible for analysts, coaches, and fans.
 
-Includes shot charts, head-to-head, rankings, scouting tools, and player similarity.
+## What It Does
+
+- Scrapes and updates basketball data from top Spanish women's and men's competitions.
+- Provides shot visualizations, team exploration, rankings, and head-to-head comparisons.
+- Includes scouting tools and a player similarity workflow.
+
+## Why It Matters
+
+- Converts fragmented and hard-to-access sources into a unified analytics experience.
+- Lowers the barrier for teams to use data in weekly preparation and opponent scouting.

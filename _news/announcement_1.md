@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-09-10 10:00:00+0200
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Started my PhD at Deutsche Sporthochschule Koln, focused on AI-driven tracking and analytics for 3x3 basketball.

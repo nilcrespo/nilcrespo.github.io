@@ -2,96 +2,144 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Nil Crespo Peiro
+    - name: Location
+      value: Barcelona, Spain
+    - name: Email
+      value: neilcrespo15@gmail.com
+    - name: Phone
+      value: +34 639 646 637
+    - name: Focus
+      value: Data Science, Computer Vision, and Applied AI for Sports
 
-- title: Education
-  type: time_table
+- title: Professional Summary
+  type: list
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - Data Scientist and Computer Vision Researcher with combined academic and industry experience in sports analytics.
+    - PhD researcher at Deutsche Sporthochschule Koln building automated tracking solutions for 3x3 basketball.
+    - Visual Computing Developer at AiBall, improving player and ball tracking pipelines for padel using AWS and deep learning.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Researcher and PhD Candidate
+      institution: Deutsche Sporthochschule Koln
+      year: Sep 2024 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Developing deep learning and machine learning algorithms for automated player and ball tracking in 3x3 basketball.
+        - Extracting player trajectories and game events from single-camera video setups.
+        - Collaborating with analysts and coaches from the German Basketball Federation (DBB).
+        - Leading the development of an open-source tracking dataset for reproducible sports analytics research.
+        - Advancing applied sports AI research across basketball, ping-pong, cricket, and golf.
+
+    - title: Visual Computing Developer
+      institution: Arcvi (AiBall)
+      year: Dec 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
+        - Enhanced and executed computer vision deep learning pipelines on AWS GPU instances.
+        - Improved tracking accuracy and computational efficiency through optimization and pipeline refinement.
+        - Designed internal data systems for large-scale tracking data on Amazon S3.
+        - Developed web dashboards for visualization and operational reporting.
+        - Implemented camera calibration methods and automated camera movement alerts.
+        - Integrated multiple reservation providers to automate bookings across platforms.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Data Analyst
+      institution: Ball&Stats
+      year: Oct 2022 - Dec 2023
       description:
+        - Developed scraping algorithms to extract and update game data for FEB teams.
+        - Created a structured relational database schema.
+        - Designed personalized visualizations adapted to each team's tactical needs.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Lead Data Analyst
+      institution: Barcelona Dragons
+      year: Apr 2022 - Sep 2023
+      description:
+        - Built a data warehouse for advanced game statistics.
+        - Led analytics initiatives with coaching staff, translating metrics into tactical improvements.
+        - Developed pre-game analysis workflows using team KPIs.
 
-- title: Open Source Projects
+    - title: Data Scientist
+      institution: Hewlett-Packard (HP)
+      year: Sep 2021 - Apr 2023
+      description:
+        - Parsed highly unstructured data to extract business value.
+        - Designed and managed complex data flows.
+        - Applied predictive models to support revenue growth initiatives.
+
+    - title: Artificial Intelligence Intern
+      institution: BaseTIS
+      year: Mar 2021 - Jul 2021
+      description:
+        - Worked with ranking and recommendation algorithms.
+        - Developed an NLP algorithm to retrieve similar and relevant tweets through an API.
+
+- title: Education
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Master in Artificial Intelligence Applied to Sports
+      institution: UCAM - Universidad Catolica San Antonio de Murcia
+      year: 2022 - 2023
 
-- title: Honors and Awards
+    - title: Erasmus, Bachelor in Computer Science
+      institution: Technische Universitat Darmstadt
+      year: 2020 - 2021
+
+    - title: Bachelor in Data Science and Engineering
+      institution: Universitat Politecnica de Catalunya (UPC)
+      year: 2017 - 2021
+
+- title: Selected Projects
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: 3x3 Basketball Tracking (PhD)
+      year: Ongoing
+      description:
+        - Automated player and ball tracking for single-camera game footage.
+        - Collaboration with federation-level analysts and coaches.
 
-- title: Academic Interests
+    - title: Padel Tracking Pipelines (AiBall)
+      year: Ongoing
+      description:
+        - End-to-end computer vision pipelines for player and ball tracking.
+        - Cloud deployment and operational optimization on AWS.
+
+    - title: BUEStats 2.0
+      year: Launched
+      description:
+        - Web app for Spanish basketball statistics with scraping, scouting, and visualization modules.
+
+    - title: Canadian National Basketball Team Analytics Support
+      year: 2024
+      description:
+        - Built visualizations and scouting workflows for pre-game and post-game Olympic preparation.
+
+    - title: NBA Analytics Web Application
+      year: 2024
+      description:
+        - Studies on salary efficiency, star prediction, and scoring trends using machine learning.
+
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Programming and Data
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Python (Pandas, SciPy, NumPy, scikit-learn, Keras), SQL, R, MATLAB.
+        - Data pipelines, scraping systems, relational modeling, and data warehousing.
+    - title: Machine Learning and AI
       items:
-        - Description 1.
-        - Description 2.
+        - GLMs, neural networks, clustering, and time-series modeling.
+        - Model training, evaluation, optimization, and deployment.
+    - title: Computer Vision and Product
+      items:
+        - Player and ball tracking, trajectory extraction, and camera calibration.
+        - Dashboard creation with Streamlit, Dash, Power BI, and Tableau.
+        - Basic web development with JavaScript, HTML, and CSS.
 
-- title: Other Interests
+- title: Languages
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Catalan (Native/Bilingual)
+    - Spanish (Native/Bilingual)
+    - English (Advanced, C1)
+    - German (Goethe-Institut, B2)
