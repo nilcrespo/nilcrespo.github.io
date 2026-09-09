@@ -10,12 +10,12 @@
     - name: Phone
       value: +34 639 646 637
     - name: Focus
-      value: Real-Time Computer Vision, Video Tracking, and Sports Performance
+      value: Football Computer Vision, Player Tracking, and Sports Performance
 
 - title: Professional Summary
   type: list
   contents:
-    - Senior Computer Vision Engineer at Catapult, leading real-time computer vision for athlete tracking and performance analysis.
+    - Senior Computer Vision Engineer at Catapult, leading football computer vision for player tracking and performance analysis.
     - Hands-on experience training, optimizing, evaluating, and deploying segmentation and classification models.
     - Research and production background spanning 3x3 basketball tracking, multi-camera padel tracking, and sports analytics products.
 
@@ -26,9 +26,9 @@
       institution: Catapult / IMPECT
       year: Aug 2026 - Present
       description:
-        - Lead the technical direction of computer-vision and tracking systems for movement classification and performance analysis.
+        - Lead the technical direction of computer-vision and tracking systems for football movement classification and performance analysis.
         - Manage and mentor a small engineering team while remaining hands-on with system design and development.
-        - Train, optimize, and deploy real-time segmentation and classification models in production environments.
+        - Train, optimize, and deploy segmentation and classification models for production football workflows.
         - Extend the pipeline to new movements, metrics, and analysis types.
         - Evaluate tracking accuracy and build quality metrics to improve reliability across the system.
 
@@ -105,10 +105,10 @@
 - title: Selected Projects
   type: time_table
   contents:
-    - title: Real-Time Athlete Computer Vision
+    - title: Computer Vision for Football Performance
       year: Ongoing
       description:
-        - Real-time segmentation, classification, athlete tracking, and movement analysis.
+        - Segmentation, classification, player tracking, and movement analysis for football.
         - Tracking evaluation and quality metrics supporting reliable performance analysis.
 
     - title: 3x3 Basketball Tracking from Broadcast Video
@@ -148,11 +148,11 @@
     - title: Machine Learning and AI
       items:
         - Segmentation, classification, neural networks, clustering, and time-series modeling.
-        - Model training, evaluation, optimization, real-time inference, and deployment.
+        - Model training, evaluation, optimization, inference, and deployment.
     - title: Computer Vision and Product
       items:
         - Player and ball tracking, 3D trajectory reconstruction, camera calibration, and motion recognition.
-        - Real-time model optimization, deployment, and tracking-quality evaluation.
+        - Model optimization, deployment, and tracking-quality evaluation.
         - Dashboard creation with Streamlit, Dash, Power BI, and Tableau.
         - Basic web development with JavaScript, HTML, and CSS.
 

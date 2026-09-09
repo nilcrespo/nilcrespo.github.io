@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 nav: true
 nav_order: 1
-subtitle: Senior Computer Vision Engineer turning real-time tracking into performance intelligence
+subtitle: Senior Computer Vision Engineer turning football tracking into performance intelligence
 
 profile:
   align: right
@@ -25,14 +25,14 @@ latest_posts:
 ---
 
 I am a Senior Computer Vision Engineer specialized in applied AI for sport. My work sits at the
-intersection of real-time computer vision, video-based tracking, model deployment, and performance analytics.
+intersection of football computer vision, video-based tracking, model deployment, and performance analytics.
 
 I currently work at **Catapult / IMPECT**, where I lead the technical direction of computer-vision
-and tracking systems that turn video into movement classifications and performance metrics. I manage and
+and tracking systems that turn football video into player movement classifications and performance metrics. I manage and
 mentor a small engineering team while remaining hands-on with system design and development.
 
-My recent work includes training and deploying real-time segmentation and classification models,
-extending tracking to new movements and metrics, and building
+My recent work includes training and deploying segmentation and classification models for football,
+extending player tracking to new movements and metrics, and building
 quality measures that improve reliability across the system.
 
 Before Catapult, I developed an automated tracking pipeline for 3x3 basketball at Deutsche

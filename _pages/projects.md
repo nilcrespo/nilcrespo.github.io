@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Selected work in real-time computer vision, sports tracking, and decision analytics.
+description: Selected work in football computer vision, sports tracking, and decision analytics.
 nav: true
 nav_order: 2
 display_categories: [industry, research, analytics, personal]

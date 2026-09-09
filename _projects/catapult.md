@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Real-Time Athlete Computer Vision
-description: Real-time segmentation, classification, and athlete tracking for performance analysis at Catapult.
-img: assets/img/projects/catapult-computer-vision.jpg
+title: Computer Vision for Football Performance
+description: Segmentation, classification, and player tracking for football performance analysis at Catapult.
+img: assets/img/projects/catapult-football-computer-vision.jpg
 importance: 1
 category: industry
 ---
 
 As a **Senior Computer Vision Engineer at Catapult / IMPECT**, I lead the technical direction of
-real-time computer-vision and tracking systems for athlete movement and performance analysis.
+computer-vision and tracking systems for football player movement and performance analysis.
 
 ## Technical Scope
 
-- Train, optimize, and deploy real-time segmentation and classification models.
-- Optimize computer-vision inference for real-time production environments.
+- Train, optimize, and deploy segmentation and classification models for football analysis.
+- Develop robust computer-vision inference for production football workflows.
 - Extend the tracking system to support new movements, metrics, and analysis workflows.
 - Evaluate tracking accuracy and build quality metrics that improve system reliability.
 

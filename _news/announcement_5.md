@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined Catapult / IMPECT as Senior Computer Vision Engineer, leading real-time computer vision for athlete tracking and performance analysis.
+Joined Catapult / IMPECT as Senior Computer Vision Engineer, leading football computer vision for player tracking and performance analysis.

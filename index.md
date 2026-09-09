@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: Senior Computer Vision Engineer building real-time tracking and performance-analysis systems
+subtitle: Senior Computer Vision Engineer building football tracking and performance-analysis systems
 
 profile:
   align: right
@@ -27,16 +27,16 @@ latest_posts:
 <div class="hero-shell">
   <div class="hero-glow hero-glow-one"></div>
   <div class="hero-glow hero-glow-two"></div>
-  <p class="hero-kicker">Computer Vision • Tracking • Sports Performance</p>
+  <p class="hero-kicker">Computer Vision • Football Tracking • Sports Performance</p>
   <h1 class="hero-title">From raw video to reliable performance intelligence.</h1>
   <p class="hero-lead">
     I am <strong>Nil Crespo Peiró</strong>, a Senior Computer Vision Engineer at Catapult. I lead and build
-    real-time computer-vision systems that detect, classify, and track athlete movement,
+    computer-vision systems for football that detect, classify, and track player movement,
     combining hands-on engineering with technical direction and team mentorship.
   </p>
   <div class="hero-tags">
-    <span>Real-Time Tracking</span>
-    <span>Video-Based Tracking</span>
+    <span>Football Computer Vision</span>
+    <span>Player Tracking</span>
     <span>Detection & Segmentation</span>
     <span>Performance Analytics</span>
   </div>
@@ -57,7 +57,7 @@ latest_posts:
   </div>
   <div>
     <p class="kpi-label">Core Domain</p>
-    <p class="kpi-value">Real-Time Sports AI</p>
+    <p class="kpi-value">Football Computer Vision</p>
   </div>
 </div>
 
@@ -74,8 +74,8 @@ latest_posts:
   <article>
     <h3>Computer Vision at Scale</h3>
     <p>
-      I train, optimize, and deploy real-time segmentation and classification models, while extending
-      tracking systems to new movements, sports, and performance metrics.
+      I train, optimize, and deploy segmentation and classification models, while extending
+      football tracking systems to new movements and performance metrics.
     </p>
   </article>
   <article>
@@ -93,7 +93,7 @@ latest_posts:
   <article>
     <p class="timeline-year">Aug 2026 - Present</p>
     <h3>Catapult / IMPECT</h3>
-    <p>Senior Computer Vision Engineer leading real-time tracking, model deployment, and quality evaluation.</p>
+    <p>Senior Computer Vision Engineer leading football tracking, model development, and quality evaluation.</p>
   </article>
   <article>
     <p class="timeline-year">2024 - Aug 2026</p>
@@ -116,9 +116,9 @@ latest_posts:
 
 ## Current Priorities
 
-1. Expanding real-time tracking to new movements, metrics, and performance-analysis workflows.
+1. Expanding football tracking to new movements, metrics, and performance-analysis workflows.
 2. Improving reliability through rigorous tracking evaluation and system-quality metrics.
-3. Shipping efficient segmentation and classification models for real-time sports environments.
+3. Shipping reliable segmentation and classification models for football analysis workflows.
 
 <div class="cta-panel">
   <p>

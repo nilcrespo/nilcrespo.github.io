@@ -5,14 +5,14 @@
 title: Nil Crespo Peiró
 name: Nil Crespo Peiró
 email: neilcrespo15@gmail.com
-description: Senior Computer Vision Engineer building real-time tracking and performance-analysis systems for sport.
+description: Senior Computer Vision Engineer building football tracking and performance-analysis systems.
 contact_note: >
-  Interested in sports computer vision, real-time tracking, or applied AI? Get in touch.
+  Interested in football computer vision, player tracking, or applied AI? Get in touch.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: sports computer vision, athlete tracking, video analytics, sports analytics, machine learning
+keywords: football computer vision, player tracking, video analytics, sports analytics, machine learning
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
