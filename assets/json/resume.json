@@ -5,7 +5,7 @@
     "email": "neilcrespo15@gmail.com",
     "phone": "+34 639646637",
     "location": { "city": "Barcelona", "countryCode": "ES", "region": "Spain" },
-    "summary": "Senior Computer Vision Engineer at Catapult, leading real-time athlete-tracking systems from sensor data to motion recognition and performance metrics. Academic and production experience spans embedded deployment, tracking evaluation, 3x3 basketball, multi-camera padel tracking, and sports analytics products."
+    "summary": "Senior Computer Vision Engineer at Catapult, leading real-time computer vision for athlete tracking and performance analysis. Academic and production experience spans model development and deployment, tracking evaluation, 3x3 basketball, multi-camera padel tracking, and sports analytics products."
   },
   "work": [
     {
@@ -13,11 +13,11 @@
       "position": "Senior Computer Vision Engineer",
       "startDate": "2026-08",
       "endDate": "",
-      "summary": "Technical leadership and hands-on development of real-time athlete-tracking systems.",
+      "summary": "Technical leadership and hands-on development of real-time computer-vision and athlete-tracking systems.",
       "highlights": [
-        "Lead technical direction from sensor data through motion recognition and performance metrics",
+        "Lead technical direction of computer-vision and tracking systems for movement classification and performance analysis",
         "Manage and mentor a small engineering team while remaining hands-on with system design and development",
-        "Train, optimize, and deploy real-time segmentation and classification models on embedded hardware and edge accelerators",
+        "Train, optimize, and deploy real-time segmentation and classification models in production environments",
         "Extend the tracking pipeline to new movements, metrics, and analysis types",
         "Evaluate tracking accuracy and build quality metrics to improve system reliability"
       ]
@@ -133,7 +133,7 @@
     },
     {
       "name": "Computer Vision",
-      "keywords": ["Player and ball tracking", "3D trajectory reconstruction", "Re-identification", "Camera calibration", "Motion recognition", "Embedded and edge deployment"]
+      "keywords": ["Player and ball tracking", "3D trajectory reconstruction", "Re-identification", "Camera calibration", "Movement classification", "Real-time model deployment"]
     },
     {
       "name": "Web / Backend",
@@ -152,8 +152,8 @@
   ],
   "projects": [
     {
-      "name": "Real-Time Athlete Tracking on the Edge",
-      "description": "Real-time segmentation, classification, tracking evaluation, and performance metrics on embedded hardware at Catapult / IMPECT."
+      "name": "Real-Time Athlete Computer Vision",
+      "description": "Real-time segmentation, classification, athlete tracking, and performance analysis at Catapult / IMPECT."
     },
     {
       "name": "3x3 Basketball Tracking from Broadcast Video",

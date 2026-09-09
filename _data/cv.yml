@@ -10,13 +10,13 @@
     - name: Phone
       value: +34 639 646 637
     - name: Focus
-      value: Real-Time Computer Vision, Edge AI, and Sports Performance
+      value: Real-Time Computer Vision, Video Tracking, and Sports Performance
 
 - title: Professional Summary
   type: list
   contents:
-    - Senior Computer Vision Engineer at Catapult, leading real-time athlete-tracking systems from sensor data to performance metrics.
-    - Hands-on experience deploying segmentation and classification models on embedded hardware and edge accelerators.
+    - Senior Computer Vision Engineer at Catapult, leading real-time computer vision for athlete tracking and performance analysis.
+    - Hands-on experience training, optimizing, evaluating, and deploying segmentation and classification models.
     - Research and production background spanning 3x3 basketball tracking, multi-camera padel tracking, and sports analytics products.
 
 - title: Experience
@@ -26,9 +26,9 @@
       institution: Catapult / IMPECT
       year: Aug 2026 - Present
       description:
-        - Lead the technical direction of the computer-vision and tracking pipeline, from sensor data to motion recognition and performance metrics.
+        - Lead the technical direction of computer-vision and tracking systems for movement classification and performance analysis.
         - Manage and mentor a small engineering team while remaining hands-on with system design and development.
-        - Train, optimize, and deploy real-time segmentation and classification models on embedded hardware and edge accelerators.
+        - Train, optimize, and deploy real-time segmentation and classification models in production environments.
         - Extend the pipeline to new movements, metrics, and analysis types.
         - Evaluate tracking accuracy and build quality metrics to improve reliability across the system.
 
@@ -105,10 +105,10 @@
 - title: Selected Projects
   type: time_table
   contents:
-    - title: Real-Time Athlete Tracking on the Edge
+    - title: Real-Time Athlete Computer Vision
       year: Ongoing
       description:
-        - Real-time segmentation and classification on embedded hardware and edge accelerators.
+        - Real-time segmentation, classification, athlete tracking, and movement analysis.
         - Tracking evaluation and quality metrics supporting reliable performance analysis.
 
     - title: 3x3 Basketball Tracking from Broadcast Video
@@ -152,7 +152,7 @@
     - title: Computer Vision and Product
       items:
         - Player and ball tracking, 3D trajectory reconstruction, camera calibration, and motion recognition.
-        - Embedded hardware, edge accelerators, and tracking-quality evaluation.
+        - Real-time model optimization, deployment, and tracking-quality evaluation.
         - Dashboard creation with Streamlit, Dash, Power BI, and Tableau.
         - Basic web development with JavaScript, HTML, and CSS.
 

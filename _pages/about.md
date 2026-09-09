@@ -25,14 +25,14 @@ latest_posts:
 ---
 
 I am a Senior Computer Vision Engineer specialized in applied AI for sport. My work sits at the
-intersection of real-time computer vision, embedded deployment, tracking evaluation, and performance analytics.
+intersection of real-time computer vision, video-based tracking, model deployment, and performance analytics.
 
-I currently work at **Catapult / IMPECT**, where I lead the technical direction of a computer-vision
-and tracking pipeline from sensor data to motion recognition and performance metrics. I manage and
+I currently work at **Catapult / IMPECT**, where I lead the technical direction of computer-vision
+and tracking systems that turn video into movement classifications and performance metrics. I manage and
 mentor a small engineering team while remaining hands-on with system design and development.
 
-My recent work includes training and deploying real-time segmentation and classification models on
-embedded hardware and edge accelerators, extending tracking to new movements and metrics, and building
+My recent work includes training and deploying real-time segmentation and classification models,
+extending tracking to new movements and metrics, and building
 quality measures that improve reliability across the system.
 
 Before Catapult, I developed an automated tracking pipeline for 3x3 basketball at Deutsche

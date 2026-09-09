@@ -27,18 +27,18 @@ latest_posts:
 <div class="hero-shell">
   <div class="hero-glow hero-glow-one"></div>
   <div class="hero-glow hero-glow-two"></div>
-  <p class="hero-kicker">Computer Vision • Edge AI • Sports Performance</p>
-  <h1 class="hero-title">From sensor data to reliable performance intelligence.</h1>
+  <p class="hero-kicker">Computer Vision • Tracking • Sports Performance</p>
+  <h1 class="hero-title">From raw video to reliable performance intelligence.</h1>
   <p class="hero-lead">
     I am <strong>Nil Crespo Peiró</strong>, a Senior Computer Vision Engineer at Catapult. I lead and build
-    real-time athlete-tracking systems that turn sensor data into motion recognition and performance metrics,
+    real-time computer-vision systems that detect, classify, and track athlete movement,
     combining hands-on engineering with technical direction and team mentorship.
   </p>
   <div class="hero-tags">
     <span>Real-Time Tracking</span>
-    <span>Embedded Computer Vision</span>
-    <span>Segmentation & Classification</span>
-    <span>Sports Performance Metrics</span>
+    <span>Video-Based Tracking</span>
+    <span>Detection & Segmentation</span>
+    <span>Performance Analytics</span>
   </div>
   <div class="hero-actions">
     <a class="hero-btn hero-btn-primary" href="/projects/">Explore Projects</a>
@@ -67,15 +67,15 @@ latest_posts:
   <article>
     <h3>Research to Real-World Deployment</h3>
     <p>
-      I lead the technical direction of computer-vision and tracking pipelines, from sensor input
-      through motion recognition, quality evaluation, and athlete-facing performance metrics.
+      I lead the technical direction of computer-vision and tracking pipelines, turning video into
+      reliable detections, trajectories, movement classifications, and performance metrics.
     </p>
   </article>
   <article>
     <h3>Computer Vision at Scale</h3>
     <p>
-      I train, optimize, and deploy real-time segmentation and classification models on embedded
-      hardware and edge accelerators, while extending systems to new movements and metrics.
+      I train, optimize, and deploy real-time segmentation and classification models, while extending
+      tracking systems to new movements, sports, and performance metrics.
     </p>
   </article>
   <article>
@@ -93,7 +93,7 @@ latest_posts:
   <article>
     <p class="timeline-year">Aug 2026 - Present</p>
     <h3>Catapult / IMPECT</h3>
-    <p>Senior Computer Vision Engineer leading real-time tracking, edge deployment, and quality evaluation.</p>
+    <p>Senior Computer Vision Engineer leading real-time tracking, model deployment, and quality evaluation.</p>
   </article>
   <article>
     <p class="timeline-year">2024 - Aug 2026</p>
@@ -111,14 +111,14 @@ latest_posts:
 
 - **Sports Computer Vision:** segmentation, classification, player and ball tracking, and trajectory reconstruction.
 - **Machine Learning for Performance:** predictive modeling, event analytics, and tactical benchmarking.
-- **Edge and Cloud Systems:** embedded inference, edge accelerators, distributed video processing, and cloud storage.
+- **Production Computer Vision:** efficient inference, model deployment, distributed video processing, and quality monitoring.
 - **Decision-Support Interfaces:** web dashboards and reporting tools for analysts, coaches, and staff.
 
 ## Current Priorities
 
 1. Expanding real-time tracking to new movements, metrics, and performance-analysis workflows.
 2. Improving reliability through rigorous tracking evaluation and system-quality metrics.
-3. Shipping efficient segmentation and classification models on embedded hardware.
+3. Shipping efficient segmentation and classification models for real-time sports environments.
 
 <div class="cta-panel">
   <p>
