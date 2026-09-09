@@ -1,19 +1,20 @@
 ---
 layout: page
-title: Canadian National Team Analytics Support
-description: Pre-game and post-game visualization workflows for Olympic preparation.
-img: assets/img/11.jpg
+title: Team Canada Olympic Rotation Analytics
+description: Rotation, lineup, and game-dynamics analysis for the Canadian men's basketball team.
+img: assets/img/projects/canada-lineup-analytics.jpg
 importance: 3
 category: analytics
 ---
 
-Built visual analysis assets to support preparation workflows for the **Canadian National Basketball Team** before the Paris 2024 cycle.
+Supported the **Canadian Men's Basketball Team** during its Olympic journey with data visualization
+and analysis focused on rotations, lineups, and game dynamics.
 
 ## Deliverables
 
-- Pre-game opponent analysis views.
-- Post-game performance summaries and pattern breakdowns.
-- A centralized web environment to keep scouting material organized and accessible.
+- Detailed player-rotation and lineup timelines.
+- Pre-game preparation views and post-game performance reviews.
+- Game-dynamics breakdowns designed to inform strategic decisions during competition.
 
 ## Impact
 

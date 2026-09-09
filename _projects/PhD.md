@@ -1,26 +1,24 @@
 ---
 layout: page
-title: 3x3 Basketball Tracking (PhD)
-description: Automated player and ball tracking and event extraction from single-camera video.
-img: assets/img/10.jpg
+title: 3x3 Basketball Tracking from Broadcast Video
+description: An automated pipeline for a large-scale 3x3 player-tracking dataset from a single camera.
+img: assets/img/projects/3x3-basketball-tracking.jpg
 importance: 1
 category: research
 ---
 
-This project focuses on building robust, reproducible tracking systems for **3x3 basketball** in realistic capture conditions.
+At Deutsche Sporthochschule Köln, I developed a fully automated pipeline designed to create the first
+large-scale player-tracking dataset for **3x3 basketball** from single-camera broadcast footage.
 
 ## Scope
 
-- Develop deep learning and machine learning models for automated player and ball tracking.
-- Extract trajectories and game events from single-camera recordings.
-- Build methods that are stable across tournament environments and camera variability.
+- Automatic game-segment detection and court registration.
+- Player detection, tracking, and projection into real-world court coordinates.
+- 3D ball localization from broadcast video.
+- Identity recovery across camera cuts and occlusions using re-identification, jersey-number recognition,
+  appearance features, and spatiotemporal constraints.
 
-## Applied Collaboration
+## Research Contribution
 
-- Direct collaboration with analysts and coaches from the **German Basketball Federation (DBB)**.
-- Model design decisions shaped by real tactical questions, not only benchmark performance.
-
-## Dataset Contribution
-
-- Leading the development of a large-scale **open-source 3x3 tracking dataset**.
-- Primary goal: enable reproducible sports AI research and faster experimentation across teams and labs.
+- The resulting dataset is part of an upcoming publication.
+- The project creates a more accessible route to performance data for teams and leagues with limited resources.

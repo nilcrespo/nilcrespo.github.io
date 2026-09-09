@@ -1,41 +1,59 @@
 {
   "basics": {
     "name": "Nil Crespo Peiró",
-    "label": "Data Scientist & Computer Vision Researcher (AI for Sports)",
+    "label": "Senior Computer Vision Engineer | Real-Time Tracking | Sports AI",
     "email": "neilcrespo15@gmail.com",
     "phone": "+34 639646637",
     "location": { "city": "Barcelona", "countryCode": "ES", "region": "Spain" },
-    "summary": "Data Scientist and Computer Vision Researcher applying AI to sports, combining academic research with industry experience. PhD researcher at Deutsche Sporthochschule Köln working on AI-driven tracking for 3x3 basketball, and Visual Computing Developer at AiBall improving player and ball tracking in padel."
+    "summary": "Senior Computer Vision Engineer at Catapult, leading real-time athlete-tracking systems from sensor data to motion recognition and performance metrics. Academic and production experience spans embedded deployment, tracking evaluation, 3x3 basketball, multi-camera padel tracking, and sports analytics products."
   },
   "work": [
+    {
+      "name": "Catapult / IMPECT",
+      "position": "Senior Computer Vision Engineer",
+      "startDate": "2026-08",
+      "endDate": "",
+      "summary": "Technical leadership and hands-on development of real-time athlete-tracking systems.",
+      "highlights": [
+        "Lead technical direction from sensor data through motion recognition and performance metrics",
+        "Manage and mentor a small engineering team while remaining hands-on with system design and development",
+        "Train, optimize, and deploy real-time segmentation and classification models on embedded hardware and edge accelerators",
+        "Extend the tracking pipeline to new movements, metrics, and analysis types",
+        "Evaluate tracking accuracy and build quality metrics to improve system reliability"
+      ]
+    },
     {
       "name": "Deutsche Sporthochschule Köln",
       "position": "Researcher & PhD Candidate",
       "startDate": "2024-09",
-      "endDate": "",
-      "summary": "AI-driven tracking and analytics for 3x3 basketball.",
+      "endDate": "2026-08",
+      "summary": "Automated player tracking and dataset development for 3x3 basketball broadcast video.",
       "highlights": [
-        "Developing deep learning and machine learning algorithms for automated player and ball tracking in 3x3 basketball",
-        "Extracting player trajectories and game events from single-camera video setups",
-        "Collaborating with analysts and coaches from the German Basketball Federation (DBB) to design analytics solutions",
-        "Leading creation of a large-scale open-source tracking dataset for 3x3 basketball",
-        "Applied sports AI research across basketball, ping-pong, cricket, and golf"
+        "Developed an automated pipeline for a large-scale 3x3 basketball player-tracking dataset from single-camera broadcast footage",
+        "Designed game-segment detection, court registration, player detection and tracking, 3D ball localization, and court-coordinate projection methods",
+        "Addressed identity fragmentation across cuts and occlusions using re-identification, jersey-number recognition, appearance features, and spatiotemporal constraints",
+        "Produced a tracking dataset forming part of an upcoming publication"
       ]
     },
     {
-      "name": "Arcvi / AiBall",
-      "position": "Visual Computing Developer",
-      "startDate": "2022-12",
-      "endDate": "",
-      "summary": "Computer vision pipelines for scalable tracking in padel.",
+      "name": "AiBall",
+      "position": "Computer Vision Developer",
+      "startDate": "2023-06",
+      "endDate": "2026-07",
+      "summary": "Production multi-camera player and ball tracking for padel.",
       "highlights": [
-        "Enhanced and executed CV deep learning pipelines on AWS using GPU-enabled instances",
-        "Improved tracking accuracy and computational efficiency via model optimization and pipeline refinement",
-        "Designed internal data systems managing large volumes of tracking data using Amazon S3",
-        "Developed web-based dashboards for visualization and operational reporting",
-        "Implemented camera calibration and automated alerts for unwanted camera movement",
-        "Integrated multiple reservation providers to automate bookings across platforms"
+        "Developed and optimized production player and ball tracking, including multi-camera processing and 3D ball-trajectory reconstruction",
+        "Designed backend data models and APIs for clubs, courts, cameras, reservations, players, and matches",
+        "Integrated club-management and reservation platforms and automated match creation, recording, and processing",
+        "Built operational dashboards and monitoring for data quality, processing pipelines, camera/NVR health, and club performance",
+        "Contributed to distributed video processing using cloud storage, background workers, and automated alerts"
       ]
+    },
+    {
+      "name": "Arcvi",
+      "position": "Computer Vision Intern",
+      "startDate": "2022-12",
+      "endDate": "2023-07"
     },
     {
       "name": "Hewlett-Packard (HP)",
@@ -111,11 +129,11 @@
     },
     {
       "name": "Machine Learning",
-      "keywords": ["GLMs", "Neural Networks", "Time Series", "K-Means"]
+      "keywords": ["Segmentation", "Classification", "Neural Networks", "Real-time inference", "Model optimization and evaluation"]
     },
     {
       "name": "Computer Vision",
-      "keywords": ["Tracking pipelines", "Camera calibration"]
+      "keywords": ["Player and ball tracking", "3D trajectory reconstruction", "Re-identification", "Camera calibration", "Motion recognition", "Embedded and edge deployment"]
     },
     {
       "name": "Web / Backend",
@@ -134,13 +152,29 @@
   ],
   "projects": [
     {
-      "name": "BUEStats 2.0",
+      "name": "Real-Time Athlete Tracking on the Edge",
+      "description": "Real-time segmentation, classification, tracking evaluation, and performance metrics on embedded hardware at Catapult / IMPECT."
+    },
+    {
+      "name": "3x3 Basketball Tracking from Broadcast Video",
+      "description": "Automated game segmentation, court registration, player tracking, 3D ball localization, and large-scale dataset development."
+    },
+    {
+      "name": "Production Padel Tracking Platform",
+      "description": "Multi-camera player and ball tracking, 3D ball reconstruction, distributed video processing, and operational monitoring at AiBall."
+    },
+    {
+      "name": "Team Canada Olympic Rotation Analytics",
+      "description": "Rotation, lineup, and game-dynamics analysis supporting the Canadian men's basketball team during its Olympic journey."
+    },
+    {
+      "name": "BUEStats 2.0 - Spanish Basketball Intelligence",
       "url": "http://www.buestats2.com",
       "description": "Web app to scrape and explore Spanish basketball stats (women’s and men’s leagues).",
       "highlights": ["Download data, visualize shots, team exploration, head-to-head, rankings", "Scouting tools and player similarity"]
     },
     {
-      "name": "NBA Analysis Web App",
+      "name": "NBA Player Value & Prediction Lab",
       "url": "https://nilcrespo-bball-ds-dashboard-jhc9eu.streamlit.app/",
       "description": "Studies combining ML and visualization (e.g., under/overpaid players, future stars, scoring trends)."
     }

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: NBA Analytics Web Application
-description: Machine learning studies and interactive dashboards for NBA decision analysis.
-img: assets/img/8.jpg
+title: NBA Player Value & Prediction Lab
+description: Interactive studies of player value, future-star prediction, and league scoring trends.
+img: assets/img/projects/nba-decision-analytics.jpg
 importance: 4
 category: analytics
 external_url: https://nilcrespo-bball-ds-dashboard-jhc9eu.streamlit.app/

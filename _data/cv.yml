@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Nil Crespo Peiro
+      value: Nil Crespo Peiró
     - name: Location
       value: Barcelona, Spain
     - name: Email
@@ -10,38 +10,51 @@
     - name: Phone
       value: +34 639 646 637
     - name: Focus
-      value: Data Science, Computer Vision, and Applied AI for Sports
+      value: Real-Time Computer Vision, Edge AI, and Sports Performance
 
 - title: Professional Summary
   type: list
   contents:
-    - Data Scientist and Computer Vision Researcher with combined academic and industry experience in sports analytics.
-    - PhD researcher at Deutsche Sporthochschule Koln building automated tracking solutions for 3x3 basketball.
-    - Visual Computing Developer at AiBall, improving player and ball tracking pipelines for padel using AWS and deep learning.
+    - Senior Computer Vision Engineer at Catapult, leading real-time athlete-tracking systems from sensor data to performance metrics.
+    - Hands-on experience deploying segmentation and classification models on embedded hardware and edge accelerators.
+    - Research and production background spanning 3x3 basketball tracking, multi-camera padel tracking, and sports analytics products.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Researcher and PhD Candidate
-      institution: Deutsche Sporthochschule Koln
-      year: Sep 2024 - Present
+    - title: Senior Computer Vision Engineer
+      institution: Catapult / IMPECT
+      year: Aug 2026 - Present
       description:
-        - Developing deep learning and machine learning algorithms for automated player and ball tracking in 3x3 basketball.
-        - Extracting player trajectories and game events from single-camera video setups.
-        - Collaborating with analysts and coaches from the German Basketball Federation (DBB).
-        - Leading the development of an open-source tracking dataset for reproducible sports analytics research.
-        - Advancing applied sports AI research across basketball, ping-pong, cricket, and golf.
+        - Lead the technical direction of the computer-vision and tracking pipeline, from sensor data to motion recognition and performance metrics.
+        - Manage and mentor a small engineering team while remaining hands-on with system design and development.
+        - Train, optimize, and deploy real-time segmentation and classification models on embedded hardware and edge accelerators.
+        - Extend the pipeline to new movements, metrics, and analysis types.
+        - Evaluate tracking accuracy and build quality metrics to improve reliability across the system.
 
-    - title: Visual Computing Developer
-      institution: Arcvi (AiBall)
-      year: Dec 2022 - Present
+    - title: Researcher and PhD Candidate
+      institution: Deutsche Sporthochschule Köln
+      year: Sep 2024 - Aug 2026
       description:
-        - Enhanced and executed computer vision deep learning pipelines on AWS GPU instances.
-        - Improved tracking accuracy and computational efficiency through optimization and pipeline refinement.
-        - Designed internal data systems for large-scale tracking data on Amazon S3.
-        - Developed web dashboards for visualization and operational reporting.
-        - Implemented camera calibration methods and automated camera movement alerts.
-        - Integrated multiple reservation providers to automate bookings across platforms.
+        - Developed an automated pipeline for a large-scale 3x3 basketball player-tracking dataset from single-camera broadcast footage.
+        - Designed methods for game-segment detection, court registration, player detection and tracking, 3D ball localization, and court-coordinate projection.
+        - Addressed identity fragmentation across camera cuts and occlusions using re-identification, jersey-number recognition, appearance features, and spatiotemporal constraints.
+        - Produced a dataset forming part of an upcoming publication.
+
+    - title: Computer Vision Developer
+      institution: AiBall
+      year: Jun 2023 - Jul 2026
+      description:
+        - Developed and optimized production computer-vision pipelines for player and ball detection and tracking in padel.
+        - Built multi-camera processing and 3D ball-trajectory reconstruction workflows.
+        - Designed backend data models and APIs for clubs, courts, cameras, reservations, players, and matches.
+        - Integrated club-management and reservation platforms and automated match creation, recording, and processing.
+        - Built dashboards and monitoring for data quality, pipeline health, cameras/NVRs, and club performance.
+        - Contributed to a distributed video-processing platform using cloud storage, background workers, and automated alerts.
+
+    - title: Computer Vision Intern
+      institution: Arcvi
+      year: Dec 2022 - Jul 2023
 
     - title: Data Analyst
       institution: Ball&Stats
@@ -79,11 +92,11 @@
   contents:
     - title: Master in Artificial Intelligence Applied to Sports
       institution: UCAM - Universidad Catolica San Antonio de Murcia
-      year: 2022 - 2023
+      year: Sep 2022 - Jun 2023
 
-    - title: Erasmus, Bachelor in Computer Science
+    - title: Erasmus, Mathematics and Computer Science
       institution: Technische Universitat Darmstadt
-      year: 2020 - 2021
+      year: Sep 2020 - Mar 2021
 
     - title: Bachelor in Data Science and Engineering
       institution: Universitat Politecnica de Catalunya (UPC)
@@ -92,29 +105,35 @@
 - title: Selected Projects
   type: time_table
   contents:
-    - title: 3x3 Basketball Tracking (PhD)
+    - title: Real-Time Athlete Tracking on the Edge
       year: Ongoing
       description:
-        - Automated player and ball tracking for single-camera game footage.
-        - Collaboration with federation-level analysts and coaches.
+        - Real-time segmentation and classification on embedded hardware and edge accelerators.
+        - Tracking evaluation and quality metrics supporting reliable performance analysis.
 
-    - title: Padel Tracking Pipelines (AiBall)
-      year: Ongoing
+    - title: 3x3 Basketball Tracking from Broadcast Video
+      year: 2024 - 2026
       description:
-        - End-to-end computer vision pipelines for player and ball tracking.
-        - Cloud deployment and operational optimization on AWS.
+        - Automated game segmentation, court registration, player tracking, and 3D ball localization.
+        - Large-scale dataset development from single-camera broadcast footage.
+
+    - title: Production Padel Tracking Platform
+      year: 2023 - 2026
+      description:
+        - Multi-camera player and ball tracking with 3D ball-trajectory reconstruction.
+        - Distributed video processing, monitoring, and automated club workflows.
 
     - title: BUEStats 2.0
       year: Launched
       description:
         - Web app for Spanish basketball statistics with scraping, scouting, and visualization modules.
 
-    - title: Canadian National Basketball Team Analytics Support
+    - title: Team Canada Olympic Rotation Analytics
       year: 2024
       description:
         - Built visualizations and scouting workflows for pre-game and post-game Olympic preparation.
 
-    - title: NBA Analytics Web Application
+    - title: NBA Player Value & Prediction Lab
       year: 2024
       description:
         - Studies on salary efficiency, star prediction, and scoring trends using machine learning.
@@ -128,11 +147,12 @@
         - Data pipelines, scraping systems, relational modeling, and data warehousing.
     - title: Machine Learning and AI
       items:
-        - GLMs, neural networks, clustering, and time-series modeling.
-        - Model training, evaluation, optimization, and deployment.
+        - Segmentation, classification, neural networks, clustering, and time-series modeling.
+        - Model training, evaluation, optimization, real-time inference, and deployment.
     - title: Computer Vision and Product
       items:
-        - Player and ball tracking, trajectory extraction, and camera calibration.
+        - Player and ball tracking, 3D trajectory reconstruction, camera calibration, and motion recognition.
+        - Embedded hardware, edge accelerators, and tracking-quality evaluation.
         - Dashboard creation with Streamlit, Dash, Power BI, and Tableau.
         - Basic web development with JavaScript, HTML, and CSS.
 

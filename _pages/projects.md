@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Selected applied AI and sports analytics projects.
+description: Selected work in real-time computer vision, sports tracking, and decision analytics.
 nav: true
 nav_order: 2
-display_categories: [research, industry, personal, analytics]
+display_categories: [industry, research, analytics, personal]
 horizontal: false
 ---
 

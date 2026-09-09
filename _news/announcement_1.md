@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my PhD at Deutsche Sporthochschule Koln, focused on AI-driven tracking and analytics for 3x3 basketball.
+Started my PhD at Deutsche Sporthochschule Köln, focused on AI-driven tracking and analytics for 3x3 basketball.

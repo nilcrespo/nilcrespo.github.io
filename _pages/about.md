@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 nav: true
 nav_order: 1
-subtitle: End-to-end sports AI from research prototypes to production-ready analytics
+subtitle: Senior Computer Vision Engineer turning real-time tracking into performance intelligence
 
 profile:
   align: right
@@ -24,14 +24,19 @@ latest_posts:
   enabled: false
 ---
 
-I am a data scientist and computer vision researcher specialized in applied AI for sports.  
-My work sits at the intersection of machine learning research, software engineering, and tactical decision support.
+I am a Senior Computer Vision Engineer specialized in applied AI for sport. My work sits at the
+intersection of real-time computer vision, embedded deployment, tracking evaluation, and performance analytics.
 
-I currently work in two complementary environments:
+I currently work at **Catapult / IMPECT**, where I lead the technical direction of a computer-vision
+and tracking pipeline from sensor data to motion recognition and performance metrics. I manage and
+mentor a small engineering team while remaining hands-on with system design and development.
 
-- **Deutsche Sporthochschule Koln** as a PhD researcher, developing AI-driven tracking and analytics for 3x3 basketball.
-- **AiBall (Arcvi)** as a Visual Computing Developer, improving player and ball tracking pipelines for padel with scalable cloud infrastructure.
+My recent work includes training and deploying real-time segmentation and classification models on
+embedded hardware and edge accelerators, extending tracking to new movements and metrics, and building
+quality measures that improve reliability across the system.
 
-Before these roles, I worked across data science and analytics positions at HP, Ball&Stats, and Barcelona Dragons, building data products and decision systems for competitive environments.
+Before Catapult, I developed an automated tracking pipeline for 3x3 basketball at Deutsche
+Sporthochschule Köln and production multi-camera padel tracking at AiBall. Earlier roles at HP,
+Ball&Stats, and Barcelona Dragons covered data science, data products, and tactical decision support.
 
 My core motivation is simple: build AI systems that are not only accurate in notebooks, but truly useful in the daily workflow of coaches, analysts, and technical teams.

@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: Data Scientist and Computer Vision Researcher building AI systems for sports performance
+subtitle: Senior Computer Vision Engineer building real-time tracking and performance-analysis systems
 
 profile:
   align: right
@@ -27,18 +27,18 @@ latest_posts:
 <div class="hero-shell">
   <div class="hero-glow hero-glow-one"></div>
   <div class="hero-glow hero-glow-two"></div>
-  <p class="hero-kicker">Sports AI • Tracking • Applied Research</p>
-  <h1 class="hero-title">From raw match video to elite tactical intelligence.</h1>
+  <p class="hero-kicker">Computer Vision • Edge AI • Sports Performance</p>
+  <h1 class="hero-title">From sensor data to reliable performance intelligence.</h1>
   <p class="hero-lead">
-    I am <strong>Nil Crespo Peiro</strong>, a data scientist and computer vision researcher focused on
-    making elite-level sports analytics usable in real environments. My current work combines
-    deep learning, efficient data pipelines, and collaborative product design with analysts and coaches.
+    I am <strong>Nil Crespo Peiró</strong>, a Senior Computer Vision Engineer at Catapult. I lead and build
+    real-time athlete-tracking systems that turn sensor data into motion recognition and performance metrics,
+    combining hands-on engineering with technical direction and team mentorship.
   </p>
   <div class="hero-tags">
-    <span>3x3 Basketball Tracking</span>
-    <span>Padel Computer Vision</span>
-    <span>Sports Data Products</span>
-    <span>AWS GPU Pipelines</span>
+    <span>Real-Time Tracking</span>
+    <span>Embedded Computer Vision</span>
+    <span>Segmentation & Classification</span>
+    <span>Sports Performance Metrics</span>
   </div>
   <div class="hero-actions">
     <a class="hero-btn hero-btn-primary" href="/projects/">Explore Projects</a>
@@ -48,16 +48,16 @@ latest_posts:
 
 <div class="kpi-band">
   <div>
-    <p class="kpi-label">Current Track</p>
-    <p class="kpi-value">PhD in Sports AI</p>
+    <p class="kpi-label">Current Role</p>
+    <p class="kpi-value">Senior CV Engineer</p>
   </div>
   <div>
-    <p class="kpi-label">Industry Role</p>
-    <p class="kpi-value">Visual Computing @ AiBall</p>
+    <p class="kpi-label">Company</p>
+    <p class="kpi-value">Catapult / IMPECT</p>
   </div>
   <div>
-    <p class="kpi-label">Core Domains</p>
-    <p class="kpi-value">Basketball and Padel</p>
+    <p class="kpi-label">Core Domain</p>
+    <p class="kpi-value">Real-Time Sports AI</p>
   </div>
 </div>
 
@@ -67,15 +67,15 @@ latest_posts:
   <article>
     <h3>Research to Real-World Deployment</h3>
     <p>
-      PhD research at Deutsche Sporthochschule Koln focused on automated 3x3 basketball tracking
-      and open data infrastructure for reproducible sports AI.
+      I lead the technical direction of computer-vision and tracking pipelines, from sensor input
+      through motion recognition, quality evaluation, and athlete-facing performance metrics.
     </p>
   </article>
   <article>
     <h3>Computer Vision at Scale</h3>
     <p>
-      Visual Computing Developer at AiBall, improving player and ball tracking in padel through
-      model optimization, camera calibration, and cloud-native processing.
+      I train, optimize, and deploy real-time segmentation and classification models on embedded
+      hardware and edge accelerators, while extending systems to new movements and metrics.
     </p>
   </article>
   <article>
@@ -91,34 +91,34 @@ latest_posts:
 
 <div class="timeline-strip">
   <article>
-    <p class="timeline-year">2024 - Present</p>
-    <h3>Deutsche Sporthochschule Koln</h3>
-    <p>PhD researcher building tracking and open data infrastructure for 3x3 basketball.</p>
+    <p class="timeline-year">Aug 2026 - Present</p>
+    <h3>Catapult / IMPECT</h3>
+    <p>Senior Computer Vision Engineer leading real-time tracking, edge deployment, and quality evaluation.</p>
   </article>
   <article>
-    <p class="timeline-year">2022 - Present</p>
-    <h3>AiBall (Arcvi)</h3>
-    <p>Production computer vision systems for padel tracking on AWS GPU pipelines.</p>
+    <p class="timeline-year">2024 - Aug 2026</p>
+    <h3>Deutsche Sporthochschule Köln</h3>
+    <p>Built an automated 3x3 basketball tracking pipeline and the foundation for a large-scale dataset.</p>
   </article>
   <article>
-    <p class="timeline-year">2021 - 2023</p>
-    <h3>HP / Ball&Stats / Barcelona Dragons</h3>
-    <p>Data science, analytics systems, scraping, and tactical reporting in high-performance contexts.</p>
+    <p class="timeline-year">2023 - Jul 2026</p>
+    <h3>AiBall</h3>
+    <p>Developed production multi-camera padel tracking, 3D ball reconstruction, and distributed video processing.</p>
   </article>
 </div>
 
 ## Focus Areas
 
-- **Sports Computer Vision:** player and ball detection, trajectory extraction, single-camera setups.
+- **Sports Computer Vision:** segmentation, classification, player and ball tracking, and trajectory reconstruction.
 - **Machine Learning for Performance:** predictive modeling, event analytics, and tactical benchmarking.
-- **Data Engineering for Sports:** data flows, scraping pipelines, relational models, and S3-scale storage.
+- **Edge and Cloud Systems:** embedded inference, edge accelerators, distributed video processing, and cloud storage.
 - **Decision-Support Interfaces:** web dashboards and reporting tools for analysts, coaches, and staff.
 
 ## Current Priorities
 
-1. Building robust 3x3 basketball tracking models under realistic constraints.
-2. Expanding open-source sports datasets for reproducible research.
-3. Delivering end-to-end AI products from ingestion to analyst-facing visualization.
+1. Expanding real-time tracking to new movements, metrics, and performance-analysis workflows.
+2. Improving reliability through rigorous tracking evaluation and system-quality metrics.
+3. Shipping efficient segmentation and classification models on embedded hardware.
 
 <div class="cta-panel">
   <p>
